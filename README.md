@@ -1,9 +1,8 @@
-# Angular Reactive Workshop
+# Angular Reactive 
 
-This is my practise on this workshop.
+This is my practise on Lukas Ruebbelke workshop.
 
 We are going to build Redux state around the `projects` feature with NGRX.
-
 
 ### NRWL Workspace
 A NRWL workspace contains one or all of you Angular projects and libraries. It creates a monorepo for your applications domains. Nx helps add extra layer of tooling that can help manage your enterprise applications.
