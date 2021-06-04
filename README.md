@@ -1,6 +1,6 @@
-# Angular Reactive Workshop
+# Angular Reactive 
 
-This is my practise on this workshop.
+This is my practise on Lukas Ruebbelke workshop.
 
 We are going to build Redux state around the `projects` feature with NGRX.
 
